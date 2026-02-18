@@ -1,0 +1,55 @@
+.cardContainer {
+  flex-shrink: 0;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+
+.orderTotalContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.orderTotalText {
+  color: #616e7c;
+  font-size: 18px;
+  font-weight: normal;
+  padding-right: 10px;
+}
+
+.orderTotalPriceText {
+  color: #171f46;
+  font-size: 20px;
+}
+
+.cartQuantityDescription {
+  color: #616e7c;
+}
+
+.checkoutBtn {
+  flex-shrink: 0;
+  height: 30px;
+  background-color: #0b69ff;
+  color: white;
+  border: none;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+.popupContainer {
+  height: 500px;
+  width: 500px;
+  background-color: #fafafa;
+  border: solid 1px #bfbfbf;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.popupHeading{
+  font-family: "Roboto";
+  font-size: 18px;
+}
