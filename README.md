@@ -6,7 +6,7 @@ A fully responsive e-commerce web application inspired by Amazon and Flipkart, b
 https://pranavnxttrend.ccbp.tech
 
 ## GitHub Repository
-https://github.com/yourusername/nxttrendz
+https://github.com/pranav-ukey/nxtTrends
 
 ## Demo Credentials
 
@@ -44,8 +44,4 @@ Password: raja@2021
 - REST APIs
 - Local Storage
 
-## Installation
 
-```bash
-npm install
-npm start
