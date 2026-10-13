@@ -1,4 +1,3 @@
-import Popup from 'reactjs-popup'
 import CartContext from '../../context/CartContext'
 
 import './index.css'
